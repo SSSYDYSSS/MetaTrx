@@ -1,0 +1,31 @@
+---
+title: "MetaTrx is an R package designed to provide comprehensive tools for transcriptome analysis across multiple species."
+author: "Dongyue Yu\\
+
+        Ph.d candiadate at Nankai University "
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    toc: false
+    theme: hpstr
+    highlight: github
+  pdf_document:
+    toc: true
+vignette: >
+  %\VignetteIndexEntry{MetaTrx}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\usepackage[utf8]{inputenc}
+---
+
+# Vignette
+
+Please go to <https://sssydysss.github.io/MetaTrxBook/> for the full vignette.
+
+# Need helps?
+
+If you have questions/issues, please visit [MetaTrx GITHUB](https://sssydysss.github.io/MetaTrxBook/) first. Your problems are mostly documented.
+
+## Bug Reporting
+
+If you believe you have identified a bug, please submit a reproducible example via the [GitHub issue tracker](https://github.com/SSSYDYSSS/MetaTrx/issues). Alternatively, you can reach out to the author, SSSYDYSSS, at [yudongyue\@mail.nankai.edu.cn](mailto:yudongyue@mail.nankai.edu.cn).
+
