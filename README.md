@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-<img src="vignettes/image/MetaTrx_rlogo.png" alt="MetaTrx Logo" width="210" height="250" align="right">
+<img src="vignettes/image/MetaTrx_rlogo.png" alt="MetaTrx Logo" width="210" height="235" align="right">
 MetaTrx is an R package designed to provide comprehensive tools for transcriptome analysis across multiple species.
 
 ## Installation
