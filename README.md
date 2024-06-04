@@ -1,6 +1,6 @@
 
 # MetaTrx
-
+[![R-CMD-check](https://github.com/SSSYDYSSS/MetaTrx/workflows/R-CMD-check/badge.svg)](https://github.com/SSSYDYSSS/MetaTrx/actions)
 <!-- badges: start -->
 <!-- badges: end -->
 
