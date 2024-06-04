@@ -2,6 +2,7 @@
 
 export("%>%")
 export(new_gseaNb)
+export(process_core_enrichment)
 import(ggplot2)
 importFrom(GseaVis,gsInfo)
 importFrom(aplot,plot_list)
